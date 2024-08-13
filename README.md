@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=색상코드&height=10&section=header&text=Hello&fontSize=20" />
+
+
 ## Hi there 👋
 
 <!--
