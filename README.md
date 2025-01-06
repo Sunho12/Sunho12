@@ -9,20 +9,5 @@
 </p>
 
 
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="mailto:rhkrtjsgh1210@gmail.com">
-    <img src="https://img.shields.io/badge/rhkrtjsgh1210@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-  <a href="mailto:latte1210@ewhain.net">
-    <img src="https://img.shields.io/badge/latte1210@ewhain.net-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-   <a href="https://github.com/Sunho12">
-   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-     </a>
-  <a href="https://kwakprogram.tistory.com">
-    <img src="https://img.shields.io/badge/Tistory-FF0000?style=for-the-badge&logo=Tistory&logoColor=white" />&nbsp
-  </a>
   
 </div>
