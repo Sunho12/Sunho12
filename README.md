@@ -27,5 +27,20 @@
 Computer Science and Engineering
 <br>
 <br>
+### 🚀 My Stats
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Sunho12&show_icons=true&theme=solarized-light" width="400px" />
+    </td>
+    <td align="center">
+      <a href="https://solved.ac/백준아이디">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjsgh1210" width="300px" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 </div>
