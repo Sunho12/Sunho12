@@ -10,15 +10,17 @@
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+Korean&pause=1000&color=F7F7F7&random=false&width=350&lines=Hi+there,+My+name+is+Claire;Welcome+to+my+Github+✨💻🤍"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F3F4F2FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+My+name+is+Claire+%F0%9F%8C%BC%F0%9F%8C%B1;Welcome+to+my+Github+%E2%9C%A8%F0%9F%92%BB%F0%9F%A4%8D" 
     />
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Korean&pause=1000&color=4A4A4A&random=false&width=350&lines=Hi+there,+My+name+is+Claire;Welcome+to+my+Github+✨💻🤍" 
-      alt="Typing Animation"
-      style="display: block; margin: 0 auto;"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A4A4AFF&center=true&vCenter=true&width=435&lines=Hi+there%2C+My+name+is+Claire+%F0%9F%8C%BC%F0%9F%8C%B1;Welcome+to+my+Github+%E2%9C%A8%F0%9F%92%BB%F0%9F%A4%8D" 
+      alt="Typing SVG"
+      style="display: block; margin: 0 auto;" 
     />
   </picture>
 </p>
+
+
 
 <div align="center">
 <br>
